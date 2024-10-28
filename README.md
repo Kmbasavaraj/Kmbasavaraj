@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kmbasavaraj
 - 👀 I’m interested in Java Full Stack Development
 - 🌱 I’m currently seeking for job
-- 💞️ I’m looking to join the reputed company
+- 💞️ I’m looking for the Job in reputed company
 - 📫 Reach me #basavakm2023@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
